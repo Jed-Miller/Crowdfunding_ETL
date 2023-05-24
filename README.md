@@ -21,3 +21,5 @@ All of these dataframes were exported as csv files.
 
 With the exported csv files, using pgadmin, we created a database, Crowdfunding, set up the appropriate tables, and populated the tables with the appropriate data. We ran some queries to verify that the data had then loaded correctly. Below is our ERD graph.
 
+![ERD graph](./Outputs/crowdfunding_ERD.pgerd "Crowdfunding ERD graph")
+
